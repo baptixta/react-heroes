@@ -1,0 +1,21 @@
+nav {
+    background: #2f2f2f;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    align-items: center;
+    color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+}
+
+ul > li {
+    margin: 1rem 2rem;
+    padding: .5rem 0;
+    text-transform: uppercase;
+}
